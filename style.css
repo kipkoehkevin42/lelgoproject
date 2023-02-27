@@ -1,14 +1,10 @@
-/* Global styles */
-
 body {
     font-family: Arial, sans-serif;
     font-size: 16px;
     color: #333;
     background-color: #fff;
   }
-  
-  /* Specific styles */
-  
+   
   h1 {
     font-size: 24px;
     font-weight: bold;
